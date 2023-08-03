@@ -34,10 +34,10 @@ src="https://img.shields.io/github/followers/minal-upadhye?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/minal-upadhye"><img src="https://github-readme-stats.vercel.app/api?username=minal-upadhye&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="minal-upadhye's GitHub stats" /></a>
+<a href="http://www.github.com/minal-upadhye"><img src="https://github-readme-stats.vercel.app/api?username=minal-upadhye&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="minal-upadhye's GitHub stats" /></a>
 
-<a href="http://www.github.com/minal-upadhye"><img src="https://github-readme-streak-stats.herokuapp.com/?user=minal-upadhye&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/minal-upadhye"><img src="https://github-readme-streak-stats.herokuapp.com/?user=minal-upadhye&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/minal-upadhye"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=minal-upadhye&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/minal-upadhye" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minal-upadhye&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/minal-upadhye" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minal-upadhye&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
