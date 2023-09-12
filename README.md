@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded Software Engineer
 --------------------------
 
-I am an embedded software engineer fascinated by the world of automotive.
+I am currently an engineering graduate student.
 
 * 🌍  I'm based in Santa Clara, California, USA
-* 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on projects in embedded and networks using Python/C/C++
 * ⚡  My superpower is listening
 
